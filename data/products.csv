@@ -1,0 +1,121 @@
+product_id,product_name,category,subcategory,base_price
+PROD0001,Kitchen Product 1,Home & Kitchen,Kitchen,394.25
+PROD0002,Decor Product 2,Home & Kitchen,Decor,29.88
+PROD0003,Accessories Product 3,Electronics,Accessories,564.08
+PROD0004,Technology Product 4,Books,Technology,10.88
+PROD0005,Men Product 5,Fashion,Men,236.42
+PROD0006,Decor Product 6,Home & Kitchen,Decor,78.58
+PROD0007,Haircare Product 7,Beauty,Haircare,15.32
+PROD0008,Decor Product 8,Home & Kitchen,Decor,462.5
+PROD0009,Furniture Product 9,Home & Kitchen,Furniture,301.64
+PROD0010,Smartphones Product 10,Electronics,Smartphones,888.66
+PROD0011,Skincare Product 11,Beauty,Skincare,165.54
+PROD0012,Audio Product 12,Electronics,Audio,304.0
+PROD0013,Laptops Product 13,Electronics,Laptops,769.31
+PROD0014,Accessories Product 14,Electronics,Accessories,128.33
+PROD0015,Kitchen Product 15,Home & Kitchen,Kitchen,117.47
+PROD0016,Women Product 16,Fashion,Women,203.86
+PROD0017,Equipment Product 17,Sports,Equipment,15.15
+PROD0018,Furniture Product 18,Home & Kitchen,Furniture,220.36
+PROD0019,Decor Product 19,Home & Kitchen,Decor,213.84
+PROD0020,Skincare Product 20,Beauty,Skincare,95.46
+PROD0021,Technology Product 21,Books,Technology,13.01
+PROD0022,Kitchen Product 22,Home & Kitchen,Kitchen,196.54
+PROD0023,Equipment Product 23,Sports,Equipment,77.77
+PROD0024,Equipment Product 24,Sports,Equipment,281.97
+PROD0025,Kitchen Product 25,Home & Kitchen,Kitchen,279.9
+PROD0026,Men Product 26,Fashion,Men,225.85
+PROD0027,Decor Product 27,Home & Kitchen,Decor,431.04
+PROD0028,Equipment Product 28,Sports,Equipment,16.44
+PROD0029,Women Product 29,Fashion,Women,56.34
+PROD0030,Decor Product 30,Home & Kitchen,Decor,335.65
+PROD0031,Furniture Product 31,Home & Kitchen,Furniture,253.64
+PROD0032,Skincare Product 32,Beauty,Skincare,14.13
+PROD0033,Business Product 33,Books,Business,42.27
+PROD0034,Accessories Product 34,Fashion,Accessories,105.5
+PROD0035,Footwear Product 35,Fashion,Footwear,31.55
+PROD0036,Furniture Product 36,Home & Kitchen,Furniture,375.57
+PROD0037,Sportswear Product 37,Sports,Sportswear,193.95
+PROD0038,Laptops Product 38,Electronics,Laptops,723.36
+PROD0039,Smartphones Product 39,Electronics,Smartphones,169.11
+PROD0040,Appliances Product 40,Home & Kitchen,Appliances,270.68
+PROD0041,Accessories Product 41,Electronics,Accessories,390.82
+PROD0042,Accessories Product 42,Electronics,Accessories,269.27
+PROD0043,Skincare Product 43,Beauty,Skincare,50.76
+PROD0044,Business Product 44,Books,Business,23.36
+PROD0045,Kitchen Product 45,Home & Kitchen,Kitchen,184.1
+PROD0046,Accessories Product 46,Electronics,Accessories,119.63
+PROD0047,Men Product 47,Fashion,Men,18.6
+PROD0048,Fragrance Product 48,Beauty,Fragrance,109.58
+PROD0049,Decor Product 49,Home & Kitchen,Decor,409.38
+PROD0050,Smartphones Product 50,Electronics,Smartphones,95.0
+PROD0051,Furniture Product 51,Home & Kitchen,Furniture,183.5
+PROD0052,Self Help Product 52,Books,Self Help,58.02
+PROD0053,Self Help Product 53,Books,Self Help,22.79
+PROD0054,Makeup Product 54,Beauty,Makeup,95.89
+PROD0055,Fitness Product 55,Sports,Fitness,287.69
+PROD0056,Women Product 56,Fashion,Women,83.9
+PROD0057,Fitness Product 57,Sports,Fitness,30.92
+PROD0058,Footwear Product 58,Fashion,Footwear,193.95
+PROD0059,Haircare Product 59,Beauty,Haircare,97.27
+PROD0060,Outdoor Product 60,Sports,Outdoor,122.23
+PROD0061,Outdoor Product 61,Sports,Outdoor,87.3
+PROD0062,Accessories Product 62,Fashion,Accessories,167.56
+PROD0063,Kitchen Product 63,Home & Kitchen,Kitchen,273.62
+PROD0064,Decor Product 64,Home & Kitchen,Decor,496.62
+PROD0065,Women Product 65,Fashion,Women,178.78
+PROD0066,Self Help Product 66,Books,Self Help,36.75
+PROD0067,Furniture Product 67,Home & Kitchen,Furniture,192.97
+PROD0068,Kitchen Product 68,Home & Kitchen,Kitchen,98.06
+PROD0069,Women Product 69,Fashion,Women,144.62
+PROD0070,Footwear Product 70,Fashion,Footwear,104.51
+PROD0071,Footwear Product 71,Fashion,Footwear,32.71
+PROD0072,Technology Product 72,Books,Technology,16.01
+PROD0073,Business Product 73,Books,Business,9.38
+PROD0074,Women Product 74,Fashion,Women,215.26
+PROD0075,Decor Product 75,Home & Kitchen,Decor,221.86
+PROD0076,Women Product 76,Fashion,Women,107.18
+PROD0077,Accessories Product 77,Fashion,Accessories,138.05
+PROD0078,Fitness Product 78,Sports,Fitness,108.69
+PROD0079,Appliances Product 79,Home & Kitchen,Appliances,240.86
+PROD0080,Skincare Product 80,Beauty,Skincare,39.29
+PROD0081,Accessories Product 81,Electronics,Accessories,335.69
+PROD0082,Laptops Product 82,Electronics,Laptops,632.19
+PROD0083,Business Product 83,Books,Business,41.27
+PROD0084,Fiction Product 84,Books,Fiction,23.65
+PROD0085,Makeup Product 85,Beauty,Makeup,157.43
+PROD0086,Audio Product 86,Electronics,Audio,361.35
+PROD0087,Equipment Product 87,Sports,Equipment,181.5
+PROD0088,Accessories Product 88,Fashion,Accessories,81.69
+PROD0089,Kitchen Product 89,Home & Kitchen,Kitchen,468.17
+PROD0090,Outdoor Product 90,Sports,Outdoor,164.49
+PROD0091,Technology Product 91,Books,Technology,38.43
+PROD0092,Haircare Product 92,Beauty,Haircare,57.6
+PROD0093,Appliances Product 93,Home & Kitchen,Appliances,373.4
+PROD0094,Footwear Product 94,Fashion,Footwear,27.18
+PROD0095,Business Product 95,Books,Business,37.34
+PROD0096,Footwear Product 96,Fashion,Footwear,210.2
+PROD0097,Self Help Product 97,Books,Self Help,59.33
+PROD0098,Fragrance Product 98,Beauty,Fragrance,123.08
+PROD0099,Fitness Product 99,Sports,Fitness,192.87
+PROD0100,Men Product 100,Fashion,Men,105.21
+PROD0101,Laptops Product 101,Electronics,Laptops,322.89
+PROD0102,Makeup Product 102,Beauty,Makeup,52.24
+PROD0103,Women Product 103,Fashion,Women,39.19
+PROD0104,Footwear Product 104,Fashion,Footwear,68.87
+PROD0105,Fragrance Product 105,Beauty,Fragrance,173.04
+PROD0106,Women Product 106,Fashion,Women,152.76
+PROD0107,Equipment Product 107,Sports,Equipment,200.64
+PROD0108,Kitchen Product 108,Home & Kitchen,Kitchen,373.49
+PROD0109,Fiction Product 109,Books,Fiction,45.69
+PROD0110,Kitchen Product 110,Home & Kitchen,Kitchen,405.37
+PROD0111,Fiction Product 111,Books,Fiction,64.59
+PROD0112,Kitchen Product 112,Home & Kitchen,Kitchen,221.08
+PROD0113,Smartphones Product 113,Electronics,Smartphones,480.63
+PROD0114,Audio Product 114,Electronics,Audio,550.01
+PROD0115,Smartphones Product 115,Electronics,Smartphones,361.73
+PROD0116,Men Product 116,Fashion,Men,51.48
+PROD0117,Furniture Product 117,Home & Kitchen,Furniture,272.76
+PROD0118,Kitchen Product 118,Home & Kitchen,Kitchen,130.92
+PROD0119,Smartphones Product 119,Electronics,Smartphones,516.56
+PROD0120,Self Help Product 120,Books,Self Help,13.3
